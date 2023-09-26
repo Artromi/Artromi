@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hello!
+-💁‍♂️Pronouns: He/Him
+-🌃Living in Leipzig 
+-✨currently learning @coding bootcamps europe
+-💞Favorites: 🌱plants, 🐈‍⬛cats&dogs🐕‍🦺, ✏drawing, 🧛‍♂️vampires, science-fiction
+
+
 
 <!--
 **Artromi/Artromi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
