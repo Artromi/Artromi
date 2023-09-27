@@ -2,8 +2,8 @@
 About me:
 * 🌃Living in Leipzig 
 * ✨currently learning @coding bootcamps europe
-* 💞Favorites: 🌱plants, 🐈cats&dogs🐕‍🦺, ✏drawing, 🧛‍♂️vampires, 🚀science-fiction
-
+* 💞Favorites: 🌱plants, 🐈cats&dogs🐕‍🦺, ✏drawing, 🧛‍♂️vampires, 🚀science-fiction, 👾gaming
+  
 
 
 <!--
