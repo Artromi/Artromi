@@ -4,7 +4,7 @@ About me:
 * ✨currently learning @coding bootcamps europe
 * 💞Favorites: 🌱plants, 🐈cats&dogs🐕‍🦺, ✏drawing, 🧛‍♂️vampires, 🚀science-fiction, 👾gaming
   
-
+------<img src="https://www.codewars.com/users/Artromi/badges/micro"/>------
 
 <!--
 **Artromi/Artromi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://www.codewars.com/users/Artromi/badges/micro"/>
+
