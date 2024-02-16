@@ -6,7 +6,7 @@ About me:
   
 🌱 <a href="https://www.codewars.com/users/Artromi"/><img src="https://www.codewars.com/users/Artromi/badges/micro"/></a>
 ---
-!(https://github.com/Artromi/Artromi/blob/main/janeway_small.jpg)
+<img src=https://github.com/Artromi/Artromi/blob/main/janeway_small.jpg>
 ---
 <!--
 **Artromi/Artromi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
