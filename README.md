@@ -2,7 +2,7 @@
 About me:
 * 🌃Living in Leipzig 
 * ✨currently learning @coding bootcamps europe
-* 💞Favorites: 🌱plants, 🐈cats&dogs🐕‍🦺, ✏drawing, 🧛‍♂️vampires, 🚀science-fiction, 👾gaming
+* 💞Favorites: 🌱plants, 🚀science-fiction, 🐈cats&dogs🐕‍🦺, ✏drawing, 👾gaming
   
 🌱 <a href="https://www.codewars.com/users/Artromi"/><img src="https://www.codewars.com/users/Artromi/badges/micro"/></a>
 ---
