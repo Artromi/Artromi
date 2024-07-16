@@ -6,7 +6,7 @@ About me:
 * 📫 contact: [Discord](https://www.discordapp.com/users/.piepmatz) or <arisenger0@gmail.com>
   
 🌱 <a href="https://www.codewars.com/users/Artromi"/><img src="https://www.codewars.com/users/Artromi/badges/micro"/></a>
----
+
 <img src="janeway.jpg" alt="captain janeway" width="150"/>
 
 
