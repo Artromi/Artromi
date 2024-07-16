@@ -7,7 +7,7 @@ About me:
   
 🌱 <a href="https://www.codewars.com/users/Artromi"/><img src="https://www.codewars.com/users/Artromi/badges/micro"/></a>
 ---
-<img src="janeway.jpeg" alt="captain janeway" width="200"/>
+<img src="janeway.jpg" alt="captain janeway" width="200"/>
 
 
 <!--
