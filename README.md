@@ -3,7 +3,7 @@ About me:
 * 🌃Living in Leipzig 
 * ✨currently learning @coding bootcamps europe
 * 💞Favorites: 🌱plants, 🚀science-fiction, 🐈cats&dogs🐕‍🦺, ✏drawing, 👾gaming
-* 📫 contacts: [Discord](www.discordapp.com/users/.piepmatz) 
+* 📫 contacts: [Discord](https://www.discordapp.com/users/.piepmatz) 
   
 🌱 <a href="https://www.codewars.com/users/Artromi"/><img src="https://www.codewars.com/users/Artromi/badges/micro"/></a>
 ---
