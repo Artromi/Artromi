@@ -2,11 +2,12 @@
 About me:
 * 🌃Living in Leipzig 
 * ✨currently learning @coding bootcamps europe
-* 💞Favorites: 🌱plants, 🚀science-fiction, 🐈cats&dogs🐕‍🦺, ✏drawing, 👾gaming
+* 💞Favorites: 🌱Plants, 🚀Science-Fiction, 🐈Cats&Dogs🐕‍🦺, 🖊️Drawing & Junk Journaling, 👾Gaming
 * 📫 contact: [Discord](https://www.discordapp.com/users/.piepmatz) or <arisenger0@gmail.com>
   
 🌱 <a href="https://www.codewars.com/users/Artromi"/><img src="https://www.codewars.com/users/Artromi/badges/micro"/></a>
 ---
+
 
 
 <!--
