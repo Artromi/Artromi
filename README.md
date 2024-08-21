@@ -1,11 +1,23 @@
-# Hi there!
-About me:
-* 🌃Living in Leipzig 
-* ✨currently learning @coding bootcamps europe
-* 💞Favorites: 🌱Plants, 🚀Science-Fiction, 🐈Cats&Dogs🐕‍🦺, 🖊️Drawing & Junk Journaling, 👾Gaming
-* 📫 contact: [Discord](https://www.discordapp.com/users/.piepmatz) or <arisenger0@gmail.com>
+# Hi, I'm Ari!
+
+I have a background in philosophy and a passion for coding.
+
+## About me
+- 🌃Living in Leipzig -> moving to Bremen soon
+- ✨learned at Coding Bootcamps Europe (09/2023 - 07/2024)
+- 💞Favorites: 🌱Plants, 🚀Science-Fiction, 🐈Cats&Dogs🐕‍🦺, 🖊️Drawing & Junk Journaling, 👾Gaming
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,pinia,tailwind&theme=dark)](https://skillicons.dev)
+
+## Currently Exploring
+ - TypeScript
+ - React
+
+## 📫 Get in Touch 
+ - <arisenger0@gmail.com>
+ - [Discord](https://www.discordapp.com/users/.piepmatz) 
   
-🌱 <a href="https://www.codewars.com/users/Artromi"/><img src="https://www.codewars.com/users/Artromi/badges/micro"/></a>
 
 <img src="janeway.jpg" alt="captain janeway" width="150"/>
 
