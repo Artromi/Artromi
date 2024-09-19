@@ -4,7 +4,7 @@ I have a background in philosophy and a passion for coding.
 
 ## About me
 - 🌃Living in Leipzig -> moving to Bremen soon
-- ✨learned at Coding Bootcamps Europe (09/2023 - 07/2024)
+- ✨I studied at Coding Bootcamps Europe (09/2023 - 07/2024) and have been self-studying since 2021.
 - 💞Favorites: 🌱Plants, 🚀Science-Fiction, 🐈Cats&Dogs🐕‍🦺, 🖊️Drawing & Junk Journaling, 👾Gaming
 
 ## Tech Stack
