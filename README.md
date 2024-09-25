@@ -11,8 +11,7 @@ I have a background in philosophy and a passion for coding.
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,pinia,tailwind,vscode&theme=dark)](https://skillicons.dev)
 
 ## Currently Exploring
- - TypeScript
- - React
+[![My Skills](https://skillicons.dev/icons?i=ts,react&theme=dark)](https://skillicons.dev)
 
 ## 📫 Get in Touch 
  - <arisenger0@gmail.com>
